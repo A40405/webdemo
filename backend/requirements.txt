@@ -1,0 +1,4 @@
+aspose
+pandas
+fastapi
+sqlalchemy
